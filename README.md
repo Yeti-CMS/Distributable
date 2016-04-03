@@ -1,0 +1,2 @@
+# Distributable
+Yeti CMS Distributable
