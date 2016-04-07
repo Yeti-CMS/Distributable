@@ -1,6 +1,8 @@
 # Yeti CMS Distributable
 This is a ready-to-use (Distributable) package for Yeti CMS, including front-end and back-end services, for PHP / Apache.
 
+<img src="http://g.recordit.co/R4jKVwYswO.gif">
+
 ## Requirements
 - PHP 5+
 - Apache
